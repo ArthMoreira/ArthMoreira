@@ -1,4 +1,4 @@
-<h1 align="left">Olá,  meu nome é Arthur Moreira e sou</h1>
+<h1 align="left">Olá,  meu nome é Arthur e sou</h1>
 
 ###
 
